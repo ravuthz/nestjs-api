@@ -22,9 +22,23 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+
+## Clone for next api
+
+```bash
+# Clone new api with knex database configure module
+npx degit git@github.com:ravuthz/nestjs-api.git#knex api_knex
+
+# Clone new api with typeorm database configure module
+npx degit git@github.com:ravuthz/nestjs-api.git#typeorm api_typeorm
+```
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+
+
 
 ## Installation
 
